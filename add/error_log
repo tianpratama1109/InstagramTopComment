@@ -1,0 +1,1 @@
+[22-Sep-2019 19:54:06 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sangatez/public_html/Project/topkomen/add/index.php on line 45

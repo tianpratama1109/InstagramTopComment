@@ -1,0 +1,18 @@
+[03-May-2019 01:40:50 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 2
+[03-May-2019 01:40:50 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 18
+[03-May-2019 01:40:50 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 43
+[03-May-2019 01:40:50 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 59
+[03-May-2019 01:40:54 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 2
+[03-May-2019 01:40:54 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 18
+[03-May-2019 01:40:54 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 43
+[03-May-2019 01:40:54 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 59
+[03-May-2019 01:40:58 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 2
+[03-May-2019 01:40:58 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 18
+[03-May-2019 01:40:58 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 43
+[03-May-2019 01:40:58 UTC] PHP Notice:  Undefined variable: level in /home/luxurys1/public_html/include/menu.php on line 59
+[04-May-2019 16:04:48 Asia/Jakarta] PHP Notice:  Undefined index: service in /home/luxurys1/public_html/include/price.php on line 3
+[04-May-2019 16:04:48 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/luxurys1/public_html/include/price.php on line 5
+[04-May-2019 16:04:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/luxurys1/public_html/include/price.php on line 6
+[04-May-2019 16:05:28 Asia/Jakarta] PHP Notice:  Undefined index: category in /home/luxurys1/public_html/include/service.php on line 4
+[04-May-2019 16:05:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/luxurys1/public_html/include/service.php on line 8
+[04-May-2019 16:05:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/luxurys1/public_html/include/service.php on line 10
